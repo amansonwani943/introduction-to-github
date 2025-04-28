@@ -1,0 +1,30 @@
+Toggle Sidebar
+
+New
+
+Home
+Include screenshot of current version?
+
+
+Preview
+Reference
+Original Screenshot
+html
+Run
+Copy code
+<html lang="en">
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>
+   Instagram Icon
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+ </head>
+ <body class="m-0 p-0">
+  <div class="w-full min-h-screen flex justify-center items-center bg-gradient-to-b from-[#be3f9e] via-[#a26bc7] to-[#6f6ed9]">
+   <img alt="3D Instagram icon with white rounded square base and colorful Instagram logo on top, casting a shadow on a pink to purple gradient background" class="max-w-[400px] w-full h-auto" height="400" src="https://storage.googleapis.com/a1aa/image/5a9f15f4-6a30-46cf-daf5-df55be02f91a.jpg" width="400"/>
+  </div>
+ </body>
+</html>
